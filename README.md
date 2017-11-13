@@ -10,10 +10,14 @@ Each folder in corresponds to one or more chapters of the above textbook and/or 
 All code is written in Python 3 and uses RL environments from [OpenAI Gym](https://gym.openai.com/). Advanced techniques use [Tensorflow](https://www.tensorflow.org/) for neural network implementations.
 
 ### Table of Contents
-- TO DO
+- [Introduction to RL problems & OpenAI Gym](01-Introduction/)
+- [MDPs and Bellman Equations](02-Markov-decision-processes/)
+- [Dynamic Programming: Model-Based RL, Policy Iteration and Value Iteration](03-Dynamic-programming/)
 
 ### List of Implemented Algorithms
-- TO DO
+- [Dynamic Programming Policy Evaluation](03-Dynamic-programming/policy_evaluation.ipynb)
+- [Dynamic Programming Policy Iteration](03-Dynamic-programming/policy_improvement.ipynb)
+- [Dynamic Programming Value Iteration](03-Dynamic-programming/value_iteration.ipynb)
 
 ### Resources
 
@@ -51,3 +55,5 @@ Selected Papers:
 - [Asynchronous Methods for Deep Reinforcement Learning (2016-02)](http://arxiv.org/abs/1602.01783)
 - [Deep Reinforcement Learning from Self-Play in Imperfect-Information Games (2016-03)](http://arxiv.org/abs/1603.01121)
 - [Mastering the game of Go with deep neural networks and tree search](https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf)
+
+Great thanks goes to this [repo](https://github.com/dennybritz/reinforcement-learning)
