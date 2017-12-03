@@ -13,11 +13,15 @@ All code is written in Python 3 and uses RL environments from [OpenAI Gym](https
 - [Introduction to RL problems & OpenAI Gym](01-Introduction/)
 - [MDPs and Bellman Equations](02-Markov-decision-processes/)
 - [Dynamic Programming: Model-Based RL, Policy Iteration and Value Iteration](03-Dynamic-programming/)
+- [Monte Carlo Model-Free Prediction & Control](04-Monte-carlo-model-free-prediction-control)
 
 ### List of Implemented Algorithms
 - [Dynamic Programming Policy Evaluation](03-Dynamic-programming/policy_evaluation.ipynb)
 - [Dynamic Programming Policy Iteration](03-Dynamic-programming/policy_improvement.ipynb)
 - [Dynamic Programming Value Iteration](03-Dynamic-programming/value_iteration.ipynb)
+- [Monte Carlo Prediction](04-Monte-carlo-model-free-prediction-control/monte_carlo_prediction_solution.ipynb)
+- [Monte Carlo Control with Epsilon-Greedy Policies](04-Monte-carlo-model-free-prediction-control/monte_carlo_control_with_epsilon_greedy_policies_solution.ipynb)
+- [Monte Carlo Off-Policy Control with Importance Sampling](04-Monte-carlo-model-free-prediction-control/off_policy_monte_carlo_control_with_weighted_importance_sampling_solution.ipynb)
 
 ### Resources
 
